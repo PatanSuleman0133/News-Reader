@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48897545353",
+    "project_id": "news-reader-app-f180c",
+    "storage_bucket": "news-reader-app-f180c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48897545353:android:84adabf0cef4830a94a258",
+        "android_client_info": {
+          "package_name": "com.example.newsreaderapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS5PMAGRuOML0mJejYsKO16zbUuk96-hA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

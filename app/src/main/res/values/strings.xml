@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">News Reader App</string>
+    <string name="app">News Reader</string>
+
+    <!--    firebase-->
+    <string name="enter_mail">Email</string>
+    <string name="enter_password">Password</string>
+    <string name="enter_name">Username</string>
+    <string name="enter_contact">Contact</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>>
+    <string name="don_have_account_signup">Don\'t have an account? Sign Up</string>
+    <string name="have_account_login">Already have an account? Login</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="saved">Saved</string>
+    <string name="tech">Tech</string>
+    <string name="business">Business</string>
+    <string name="sports">Sports</string>"
+    <string name="news_image">News Image</string>
+
+    <!--    Toast-->
+    <string name="email_password_empty">Please fill all fields..</string>
+    <string name="password_length">Password must be at least 6 characters long</string>
+    <string name="contact_length">Enter Valid Contact</string>
+    <string name="name_length">Enter Valid Name</string>
+    <string name="valid_email">Enter a valid email</string>
+    <string name="loginSuccess">Login Successful</string>
+    <string name="login_failed">Login Failed: %1$s</string>
+    <string name="registerSuccess">Registration Successful</string>
+    <string name="register_failed">Register Failed: %1$s</string>
+    <string name="no_data"> No Data Saved..</string>
+
+    //News
+    <string name="title">News Title</string>
+    <string name="description">Description of News...</string>
+    <string name="read_more">Read More...</string>
+    <string name="save">Save</string>
+
+    <string name="article_saved">Article Saved Successfully !!</string>
+    <string name="techchnology_key">technology</string>
+    <string name="sports_key">sports</string>
+    <string name="business_key">business</string>
+
+    //details
+    <string name="details">Details</string>
+    <string name="no_title">No Title</string>
+    <string name="no_description">No Description</string>
+
+    //search
+    <string name="search_Tech">Search Tech articles...</string>
+    <string name="search_business">Search Business articles...</string>
+    <string name="search_sports">Search Sports articles...</string>
+
+
+    //popup
+    <string name="registered_success">🎉 Registration Successful!</string>
+    <string name="success">Your account has been created.\nClick OK to continue.</string>
+    <string name="ok">OK</string>
+
+
+
+
+
+
+</resources>

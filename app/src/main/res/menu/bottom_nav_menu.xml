@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_tech"
+        android:icon="@drawable/baseline_tech_24"
+        android:title="@string/tech" />
+
+    <item
+        android:id="@+id/nav_sports"
+        android:icon="@drawable/baseline_sports_cricket_24"
+        android:title="@string/sports" />
+
+    <item
+        android:id="@+id/nav_business"
+        android:icon="@drawable/baseline_business_24"
+        android:title="@string/business" />
+
+    <item
+        android:id="@+id/nav_saved"
+        android:icon="@drawable/baseline_saved_24"
+        android:title="@string/saved" />
+</menu>
